@@ -1,0 +1,21 @@
+# Virtual environment folder
+venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Environment variables (sensitive data)
+.env
+
+# Ignore vectorstore folder but keep .gitkeep
+vectorstore/chromadb/*
+!vectorstore/chromadb/.gitkeep
+
+# Ignore generated emails folder but keep .gitkeep
+outputs/generated_emails/*
+!outputs/generated_emails/.gitkeep
+
+# Ignore processed data folder but keep .gitkeep
+data/processed/*
+!data/processed/.gitkeep

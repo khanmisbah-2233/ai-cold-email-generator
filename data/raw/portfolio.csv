@@ -1,0 +1,4 @@
+project_name,skills,description,link
+Brain Tumor Segmentation,"Python, Streamlit, Deep Learning, U-Net, Medical Imaging","AI app for brain tumor segmentation from MRI scans using U-Net and Streamlit UI.","https://github.com/yourusername/brain-tumor-segmentation"
+Text Emotion Recognition,"Python, NLP, RNN, Deep Learning","Text-based emotion recognition system using NLP preprocessing and RNN model.","https://github.com/yourusername/text-emotion-recognition"
+Face Emotion Detection,"Python, OpenCV, Deep Learning, Computer Vision","Real-time face emotion detection system using webcam and deep learning.","https://github.com/yourusername/face-emotion-detection"
